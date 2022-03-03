@@ -1,5 +1,5 @@
 """
-Exercise 18 - Address addressbook
+Exercise 18 - Address book
 """
 # create an addressbook with address, phone number, birthday and email for at least 4 persons
 addressbook = {}

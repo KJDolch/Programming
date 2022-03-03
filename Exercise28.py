@@ -1,6 +1,7 @@
 """
 Exercise 28 - your first functions
 """
+# create a program that defines functions for the four mathematical basic operations
 
 
 def Plus(a, b):
@@ -26,6 +27,7 @@ def Geteilt(a, b):
     return pro
 
 
+# call each of the functions at least three times with different parameters
 list = [1, 2, 3]
 for i in list:
     a = int(input("What is your first number: "))

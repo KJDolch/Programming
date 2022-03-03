@@ -1,6 +1,9 @@
 """
 Exercise 8 - Creating lists
 """
+# write a program that creates at least four different lists
+# two of them should contain only strings and two of them should only numbers
+# try to generate a list that mixes strings and numbers
 SpringMonths = ["March", "April", "June"]
 SummerMonths = ["June", "July", "August"]
 AutumnMonths = ["September", "October", "November"]

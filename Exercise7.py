@@ -1,7 +1,7 @@
 """
 Exercise 7 - Other comparisons
 """
-
+# take the program from Exercise 6 and add some more statements for printing out a positive encouragement
 Nr1 = int(input("Give me one number: "))
 Nr2 = int(input("Give me another one: "))
 Nr3 = int(input("and one more: "))

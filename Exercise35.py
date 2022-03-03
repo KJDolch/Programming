@@ -7,7 +7,7 @@ import math
 nr1 = int(input("Give me one number: "))
 nr2 = int(input("Give me a second number: "))
 print("")
-
+# print out the results
 print(math.exp(nr1))
 print(math.log(nr1, nr2))
 print(math.log(nr1, 2))

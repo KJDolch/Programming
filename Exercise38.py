@@ -19,7 +19,7 @@ Array4 = np.array([7, 5, 3, 9, 6, 2, 8, 5, 1])
 # a two-dimensional array TD consisting of 6 rows of arrays with 5 entries
 Array5 = np.ones((6, 5))
 
-# a transposed version of the two-dimensional array # TD
+# a transposed version of the two-dimensional array TD
 Array6 = Array5.transpose()
 
 print("Array [1]", Array1)

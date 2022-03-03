@@ -1,6 +1,11 @@
 """
 Exercise 36 - Working with constants
 """
+# write a program that takes two numbers from the user and calculates new values with the help of the same functions as in exercise 35
+# this time the input variables have to be multiplied by one of the three shown constants (Pi, Euler number or Tau)
+# let the user choose which constant should be used
+# print out the seults
+
 import math
 
 

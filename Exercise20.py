@@ -1,12 +1,13 @@
 """
 Exercise 20 - Working with tuples
 """
+# write a program that dreates four tuple of different lengths
 # ask for input: lenght of tuples
 one = int(input("How long should be number one: "))
 two = int(input("How long should be number two: "))
 three = int(input("How long should be number three: "))
 four = int(input("How long should be number four: "))
-# create tuples with corresponding lenght
+# create tuples with corresponding length
 mytuple_one = tuple(range(one))
 mytuple_two = tuple(range(two))
 mytuple_three = tuple(range(three))

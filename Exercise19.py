@@ -2,7 +2,7 @@
 Exercise 19 - Adjusting the address book
 """
 # copy addressbool from Exercise 18
-# keep in mind, to chekc if the user is giving an usable input
+# keep in mind, to check if the user is giving an usable input
 addressbook = {}
 addressbook["Mia"] = {}
 addressbook["Mia"]["City"] = "Karlsruhe"
@@ -46,7 +46,7 @@ if change1 == "yes":
             print("No such entry")
         else:
             del addressbook[delete1]
-# if user wants to change, aska gain which entry and to what it shoudl be changed and change it
+# if user wants to change, ask gain which entry and to what it should be changed and change it
 change3 = input("Do you want to change an entry: yes or no: ")
 if change3 == "yes":
     change4 = input("Which part do you want to change: City, Number, Birthday, Email: ")
@@ -80,7 +80,7 @@ if change3 == "yes":
             addressbook[name3]["Email"] = email
     else:
         print("No such entry")
-# if user wants ta add an entry, ask for all informations and create it
+# if user wants to add an entry, ask for all informations and create it
 change5 = input("Do you want to add an entry: yes or no: ")
 if change5 == "yes":
     name4 = input("What is the name: ")

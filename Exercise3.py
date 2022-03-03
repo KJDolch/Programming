@@ -1,6 +1,7 @@
 """
 Exercise 3 - Math operations
 """
+# write a program that shows the use of all 7 math functions
 
 nr1 = 2
 nr2 = 4

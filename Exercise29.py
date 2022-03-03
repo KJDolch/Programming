@@ -2,7 +2,7 @@
 Exercise 29 - Functions with simple loops
 """
 
-# the first function should take a list as argument and return the sum of all elemts in the list, calculated by a loop
+# the first function should take a list as argument and return the sum of all elements in the list, calculated by a loop
 
 
 def function1(inputlist):

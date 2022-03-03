@@ -7,7 +7,7 @@ import random
 loops = 0
 score = 0
 i = 0
-while i < 5:
+while i < 25:
     randomnumber = random.randint(1, 3)
     try:
         number = int(input("Guess a number: "))
@@ -25,4 +25,4 @@ while i < 5:
     finally:
         loops += 1
 print("You had ", score, "times the right number")
-print("You nedded: ", loops, "guesses for 5 right attempts!")
+print("You nedded: ", loops, "guesses for 25 right attempts!")
